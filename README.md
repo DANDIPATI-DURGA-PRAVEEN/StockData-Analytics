@@ -57,6 +57,10 @@ Visualizes the extracted Tesla stock data, including historical share prices and
 
 Visualizes the extracted GameStop stock data using the `make_graph` function, with the resulting graph titled "GameStop Stock Analysis."
 
+## Contact Information
+
+For questions, contributions, or feedback, feel free to reach out to [durgapraveendandipati@gmail.com](mailto:durgapraveendandipati@gmail.com).
+
 ## Getting Started
 
 Before running the code, ensure you have the required libraries installed:
@@ -68,4 +72,3 @@ Before running the code, ensure you have the required libraries installed:
 !pip install plotly --upgrade
 ## Contact Information
 
-For questions, contributions, or feedback, feel free to reach out to [durgapraveendandipati@gmail.com](mailto:durgapraveendandipati@gmail.com).
