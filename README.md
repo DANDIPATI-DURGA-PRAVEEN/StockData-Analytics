@@ -66,3 +66,6 @@ Before running the code, ensure you have the required libraries installed:
 !mamba install bs4==4.10.0 -y
 !pip install nbformat==4.2.0
 !pip install plotly --upgrade
+## Contact Information
+
+For questions, contributions, or feedback, feel free to reach out to [durgapraveendandipati@gmail.com](mailto:durgapraveendandipati@gmail.com).
