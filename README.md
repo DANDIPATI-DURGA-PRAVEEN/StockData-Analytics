@@ -11,7 +11,7 @@ Welcome to StockData Analytics! This project focuses on extracting, analyzing, a
 - [Skills Required](#skills-required)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
-- [Contact Information](#contact)
+- [Contact Information](#contact-information)
 
 ## Project Overview
 
