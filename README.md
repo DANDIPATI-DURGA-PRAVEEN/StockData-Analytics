@@ -9,11 +9,9 @@ Welcome to StockData Analytics! This project focuses on extracting, analyzing, a
 - [Project Overview](#project-overview)
 - [Description](#description)
 - [Skills Required](#skills-required)
-- [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Instructions](#instructions)
+- [Project Structure](#project-structure)
 - [Contact](#contact)
-- [About StockData Analytics](#about-stockdata-analytics)
 
 ## Project Overview
 
@@ -30,6 +28,17 @@ StockData Analytics focuses on the extraction, analysis, and visualization of hi
 - Pandas
 - Plotly
 - Data Analysis
+
+## Getting Started
+
+Before running the code, ensure you have the required libraries installed:
+
+```bash
+!pip install yfinance==0.1.67
+!mamba install bs4==4.10.0 -y
+!pip install nbformat==4.2.0
+!pip install plotly --upgrade
+## Contact Information
 
 ## Project Structure
 
@@ -61,14 +70,4 @@ Visualizes the extracted GameStop stock data using the `make_graph` function, wi
 
 For questions, contributions, or feedback, feel free to reach out to [durgapraveendandipati@gmail.com](mailto:durgapraveendandipati@gmail.com).
 
-## Getting Started
-
-Before running the code, ensure you have the required libraries installed:
-
-```bash
-!pip install yfinance==0.1.67
-!mamba install bs4==4.10.0 -y
-!pip install nbformat==4.2.0
-!pip install plotly --upgrade
-## Contact Information
 
