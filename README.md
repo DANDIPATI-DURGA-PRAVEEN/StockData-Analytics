@@ -33,12 +33,15 @@ StockData Analytics focuses on the extraction, analysis, and visualization of hi
 
 Before running the code, ensure you have the required libraries installed:
 
+## Installation
+
 ```bash
 !pip install yfinance==0.1.67
 !mamba install bs4==4.10.0 -y
 !pip install nbformat==4.2.0
 !pip install plotly --upgrade
-## Contact Information
+
+
 
 ## Project Structure
 
